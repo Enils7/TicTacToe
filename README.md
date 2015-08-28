@@ -1,2 +1,3 @@
 # TicTacToe
-Build TicTacToe game
+Build TicTacToe game 
+<p>Get used to using Git and GitHub<p>
